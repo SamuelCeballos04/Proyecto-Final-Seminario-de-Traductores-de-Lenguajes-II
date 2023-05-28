@@ -8,7 +8,7 @@ Este proyecto decidí enfocarlo a una parte que me llama mucho la atención que 
 
 Comencé creando una interfaz visual para la manipulación de los datos en PyQT5, la idea es que a través de esta interfaz, el usuario pudiese seleccionar el tipo de datos con los que quiere trabajar después, realizando un filtro con Pandas en el cual podía extraer los datos de acuerdo a número de casos, de muertes, países o continentes expecíficos. El objetivo de realizar esta interfaz fue lograr una primera limpieza, filtrado y transformación de los datos.
 La interfaz se ve algo así: 
-![My image](/Proyecto-Final-Seminario-de-Traductores-de-Lenguajes-II/images/interfaz.png)
+![My image](/images/interfaz.png)
 
 Poniendo a prueba esta interfaz, generamos un archivo con determinadas condiciones: 
 ![My image](/Proyecto-Final-Seminario-de-Traductores-de-Lenguajes-II/images/generacion.png)
